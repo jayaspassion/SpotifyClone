@@ -1,0 +1,35 @@
+body{
+    background-color: #1DB954;
+}
+
+.wrapper{
+    background-color: white;
+    padding-top: 10px;
+    margin-top: 5%;
+    border-radius: 50px;
+    
+}
+
+
+
+
+.playlist{
+    /* border: 1px solid black; */
+    margin: 10%;
+    
+}
+
+.album-cover{
+    width: 200px;
+    height: 200px; 
+    border-radius: 5px;
+}
+
+.playlist-name{
+    /* border: 1px solid black; */
+    margin: auto;
+    
+}
+.playlist-name h2{
+text-align: center;
+}
